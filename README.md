@@ -303,4 +303,7 @@ public class ZelixFlowTransformer extends Transformer {
 ```
 
 ## The end
+After all the transformations, this is the cleaned up method we're left with. Very much like the original:
+<img width="1151" height="460" alt="image" src="https://github.com/user-attachments/assets/b4c9790d-444e-4acf-90b8-287518749e10" />
+
 Thanks for your attention, have fun.
