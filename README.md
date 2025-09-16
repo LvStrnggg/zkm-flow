@@ -1,4 +1,4 @@
-<img width="707" height="850" alt="image" src="https://github.com/user-attachments/assets/020859eb-f78f-404f-8baf-1096f94b196e" /><img width="888" height="292" alt="image" src="https://github.com/user-attachments/assets/e98a1026-e671-408e-91aa-2d37befeb71c" /># A write-up and transformer for Zelix KlassMaster™ control flow obfuscation
+# A write-up and transformer for Zelix KlassMaster™ control flow obfuscation
 
 ## Introduction
 This was done purely just for fun and without any bad intentions!
