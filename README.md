@@ -1,5 +1,6 @@
 # A write-up and transformer for Zelix KlassMaster™ control flow obfuscation
-
+# NOTE
+This only works for ZKM versions 26.0.3 and below. Has been randomized in version 27.0.0 and patched in 27.0.1
 ## Introduction
 This was done purely just for fun and without any bad intentions!
 Zelix KlassMaster™ is one of, if not, the best java bytecode obfuscator out there, but everything has flaws. One of them is their flow obfuscation.
